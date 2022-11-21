@@ -11,4 +11,5 @@ urlpatterns = [
     path('inde', views.index, name='index'),
     path('in', views.index, name='index'),
     path('newpath', views.index, name='index'),
+    path('path', views.index, name='index'),
 ]
