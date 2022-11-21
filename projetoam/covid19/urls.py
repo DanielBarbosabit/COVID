@@ -8,4 +8,6 @@ urlpatterns = [
     path('indextest', views.index, name='index'),
     path('indexstart', views.index, name='index'),
     path('ind', views.index, name='index'),
+    path('inde', views.index, name='index'),
+    path('in', views.index, name='index'),
 ]
