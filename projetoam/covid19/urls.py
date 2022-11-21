@@ -6,4 +6,5 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('index', views.index, name='index'),
     path('indextest', views.index, name='index'),
+    path('indexstart', views.index, name='index'),
 ]
