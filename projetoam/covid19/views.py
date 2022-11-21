@@ -10,5 +10,5 @@ def index(request):
 
 
 def test_function():
-
+    a = 10
     return True
