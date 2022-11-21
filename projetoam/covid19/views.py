@@ -11,4 +11,5 @@ def index(request):
 
 def test_function():
     a = 10
+    a = a + 1
     return True
