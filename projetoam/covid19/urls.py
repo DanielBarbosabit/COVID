@@ -7,4 +7,5 @@ urlpatterns = [
     path('index', views.index, name='index'),
     path('indextest', views.index, name='index'),
     path('indexstart', views.index, name='index'),
+    path('ind', views.index, name='index'),
 ]
